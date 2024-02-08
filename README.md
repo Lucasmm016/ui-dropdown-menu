@@ -2,6 +2,7 @@
 
 ### Dependencies
 
+- tailwind
 - tailwind-merge
 
 ```
